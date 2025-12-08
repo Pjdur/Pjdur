@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Pjdur.
 
-- 🔭 I’m currently working on [`cliux`](https://github.com/pjdur/cliux) and [`velto`](https://github.com/pjdur/velto)
+- 🔭 I’m currently working on [`cliux`](https://github.com/pjdur/cliux) and [`flux`](https://github.com/pjdur/flux)
 - 🌱 I’m currently learning `Rust`
 - 👯 I’m looking to collaborate on `cliux`, a terminal styling toolkit.
 - 🤔 I’m looking for help with `cliux`
