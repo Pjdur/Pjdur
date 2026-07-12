@@ -7,7 +7,7 @@ You should also check out these projects:
 
 <table>
   <tr>
-    <td><a href="https://github.com/pjdur/scriptgen"><code>scriptgen</code></a></td>
+    <td><a href="https://github.com/pjdur/binploy"><code>binploy</code></a></td>
     <td>Install script generator</td>
   </tr>
   <tr>
