@@ -12,7 +12,7 @@ You should also check out these projects:
   </tr>
   <tr>
     <td><a href="https://github.com/pjdur/ask"><code>ask</code></a></td>
-    <td>A simple tool to ask AI something quickly</td>
+    <td>A simple tool to ask AI something quickly, with file support (v2!)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/pjdur/cliux"><code>cliux</code></a></td>
