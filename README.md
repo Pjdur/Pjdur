@@ -1,11 +1,12 @@
 ## Hello.
 
-Right now, I'm working on:
-## [`cpux`](https://github.com/pjdur/cpux)
-
 You should also check out these projects:
 
 <table>
+  <tr>
+    <td><a href="https://github.com/pjdur/cpux"><code>cpux</code></a></td>
+    <td>CPU-based Retained-mode GUI framework</td>
+  </tr>
   <tr>
     <td><a href="https://github.com/pjdur/binploy"><code>binploy</code></a></td>
     <td>Install script generator</td>
