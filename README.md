@@ -1,6 +1,6 @@
 ## Hello.
 
-You should also check out these projects:
+You should check out these projects:
 
 <table>
   <tr>
